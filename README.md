@@ -10,8 +10,12 @@ Data files:
 Report
 1. disney_movie_analysis.html
 2. disney_movie_analysis.pdf
-3.
+
+PDF: 
 [disney_movie_analysis.pdf](https://github.com/panktiHT/Disney-Movies-Data-Exploration/files/7081615/disney_movie_analysis.pdf)
+
+HTML Link
+https://rawgit.com/panktiHT/Disney-Movies-Data-Exploration/master/disney_movie_analysis.html
 
 Unit test
 1. frequency_tests.py
