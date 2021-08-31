@@ -2,6 +2,7 @@
 Data Exploration of Disney Movies using Python
 
 Final project - Introduction to Python for Data Science | UBC
+August 2021
 
 Data files:
 1. disney-director.csv
@@ -11,14 +12,11 @@ Report
 1. disney_movie_analysis.html
 2. disney_movie_analysis.pdf
 
-PDF: 
-[disney_movie_analysis.pdf](https://github.com/panktiHT/Disney-Movies-Data-Exploration/files/7081615/disney_movie_analysis.pdf)
-
-HTML Link
+<b>HTML Link:</b>
 https://rawgit.com/panktiHT/Disney-Movies-Data-Exploration/master/disney_movie_analysis.html
 
-Unit test
+Sample unit test
 1. frequency_tests.py
 
-Function
+Sample function development
 1. frequency.py 
