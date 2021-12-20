@@ -2,7 +2,7 @@
 Data Exploration of Disney Movies using Python
 
 <b>HTML Link:</b>
-https://rawgit.com/panktiHT/Disney-Movies-Data-Exploration/master/disney_movie_analysis.html
+https://htmlpreview.github.io/?https://github.com/panktiHT/Disney-Movies-Data-Exploration/blob/main/disney_movie_analysis.html
 
 _____________________________________________________________________________________________
 
